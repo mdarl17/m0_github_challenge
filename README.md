@@ -10,3 +10,7 @@
 ## Directions
 
 Describe the steps to connect a local repository to a remote repository in the `github_steps.md` file.
+
+## Modification
+
+Modifying file to push remotely to Github
